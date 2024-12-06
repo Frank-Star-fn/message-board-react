@@ -1,10 +1,18 @@
-# Getting Started
+# message-board-react
 
-该项目是通过 [Create React App](https://github.com/facebook/create-react-app) 启动的.
+简易留言板。前端基于react；后端基于node.js和express框架；数据库为mysql。
+
+<img src="./img_show/page1_1.png" width="70%">
+<!-- ![image](./img_show/page1_1.png) -->
+
+
+## Getting Started
+
+该项目通过 [Create React App](https://github.com/facebook/create-react-app) 启动。
 
 ## 启动前端
 ```
-cd C:\myfile\program\frontend\code\demo\react-demo\my-app
+cd your_path_to/my-app
 npm start
 ```
 
@@ -21,7 +29,7 @@ npx tailwindcss -i ./src/index.css -o ./src/index_output.css --watch
 
 ## 启动后端
 ```
-cd C:\myfile\program\frontend\code\demo\react-demo\my-app\server
+cd your_path_to/my-app/server
 node server.js
 ```
 后端网址为
