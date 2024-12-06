@@ -5,7 +5,6 @@
 <img src="./img_show/page1_1.png" width="70%">
 <!-- ![image](./img_show/page1_1.png) -->
 
-
 ## Getting Started
 
 该项目通过 [Create React App](https://github.com/facebook/create-react-app) 启动。
